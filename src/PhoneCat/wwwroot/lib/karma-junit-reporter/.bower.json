@@ -1,0 +1,15 @@
+{
+  "name": "karma-junit-reporter",
+  "homepage": "https://github.com/karma-runner/karma-junit-reporter",
+  "version": "0.3.8",
+  "_release": "0.3.8",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.8",
+    "commit": "6b17f6fa17203e2e8ff889390e1ff2bd887404c2"
+  },
+  "_source": "git://github.com/karma-runner/karma-junit-reporter.git",
+  "_target": "~0.3.8",
+  "_originalSource": "karma-junit-reporter",
+  "_direct": true
+}

@@ -8,6 +8,13 @@
     "jquery-validation-unobtrusive": "3.2.4",
     "angular": "1.4.6",
     "karma": "*",
-    "protractor": "*"
+    "protractor": "*",
+    "jasmine": "2.3.4",
+    "karma-jasmine": "~0.3.6",
+    "karma-junit-reporter": "~0.3.8",
+    "angular-route": "1.4.6",
+    "angular-resource": "1.4.6",
+    "angular-animate": "1.4.6",
+    "angular-mocks": "1.4.6"
   }
 }
